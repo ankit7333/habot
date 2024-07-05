@@ -23,6 +23,7 @@ export default {
         fadeInDelay4: 'fadeIn 1s ease-out 0.8s forwards',
         fadeInDelay5: 'fadeIn 1s ease-out 1s forwards',
         fadeInDelay6: 'fadeIn 1s ease-out 1.2s forwards',
+        fadeInDelay7: 'fadeIn 1s ease-out 1.4s forwards',
         // Add more delay classes as needed
       },
     },
