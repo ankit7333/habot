@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom"
-
 const base = 'text-[15px] capitalize rounded-[5px] border-[1px] font-bold py-3 px-3 transition hover:opacity-80 w-full'
 
 const styles = {
